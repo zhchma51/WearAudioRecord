@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WearRecord</string>
+    <string name="text">record success!</string>
+    <string name="button">record</string>
+</resources>
